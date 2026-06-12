@@ -42,7 +42,7 @@ const AddColors = () => {
   };
 
   return (
-    <div className="max-w-xl mx-auto bg-white border border-gray-200 rounded-2xl shadow-xl mt-10 overflow-hidden select-none">
+    <div className="max-w-xxl mx-auto bg-white border border-gray-200 rounded-2xl shadow-xl mt-10 overflow-hidden select-none">
       <h2 className="text-xl font-bold bg-gray-50 px-6 py-4 border-b border-gray-100 text-slate-800">
         Add Colors 🎨
       </h2>
